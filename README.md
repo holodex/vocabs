@@ -1,6 +1,10 @@
-# Craftworks vocabs
+# Craftodex vocabs
 
-vocabs for describing [Craftworks linked open data](https://github.com/enspiral/craftodex-data).
+vocabs for [Craftodex data](https://github.com/enspiral/craftodex-data).
+
+should be applicable in describing profiles for many networks of people and groups.
+
+### WORK IN PROGRESS
 
 - [Person](./person/index.js)
 - [Group](./group/index.js)
