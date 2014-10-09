@@ -55,9 +55,9 @@ module.exports = {
       format: "date-time",
     },
   },
-  dependencies: {
-    Group: require('../group'),
-    Person: require('../person'),
-    Role: require('../role'),
-  },
+};
+module.exports.dependencies = {
+  Group: require('../group'),
+  Person: require('../person'),
+  Role: require('../role'),
 };

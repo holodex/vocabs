@@ -8,6 +8,4 @@ module.exports = {
   context: "Place",
   properties: {
   },
-  dependencies: {
-  },
 };

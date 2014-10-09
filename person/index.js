@@ -62,8 +62,8 @@ module.exports = {
       },
     },
   },
-  dependencies: {
-    Membership: require('../membership'),
-    Place: require('../place'),
-  },
+};
+module.exports.dependencies = {
+  Membership: require('../membership'),
+  Place: require('../place'),
 };
