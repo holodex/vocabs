@@ -10,4 +10,4 @@ should be applicable in describing profiles for many networks of people and grou
 - [Group](./group/index.js)
 - [Membership](./membership/index.js)
 - [Role](./role/index.js)
-- [Location](./location/index.js)
+- [Place](./place/index.js)
